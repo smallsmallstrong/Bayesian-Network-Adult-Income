@@ -5,4 +5,4 @@ The dataset is from https://www.kaggle.com/datasets/uciml/adult-census-income.
 
 Relevant papers:
 
-Ron Kohavi, *caling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid*, Proceedings of the Second International Conference on Knowledge Discovery and Data Mining, 1996. (PDF)
+Ron Kohavi, *Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid*, Proceedings of the Second International Conference on Knowledge Discovery and Data Mining, 1996. (PDF)
